@@ -25,7 +25,7 @@ Customer-Shopping-Behavior-Analysis/
 ├── Customer_Shopping_Behaviour.ipynb        # EDA notebook (Python / Pandas)
 ├── Customer_Behaviour_Analysis.sql          # SQL queries (PostgreSQL)
 ├── Customer_Behaviour_Dashboard.pbix        # Power BI dashboard
-├── Customer_Shopping_Behaviour_Report.docx  # Full written report
+├── Customer_Shopping_Behaviour_Report.pdf  # Full written report
 └── README.md
 ```
 
